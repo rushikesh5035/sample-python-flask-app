@@ -1,1 +1,1 @@
-# sample-python-app-demo
+# sample-python-flask-app-demo
